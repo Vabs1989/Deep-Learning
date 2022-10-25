@@ -1,0 +1,12 @@
+patientId,age,sex,view,label,Set
+Image 1,10,M,AP,1,Dummy
+Image 2,20,F,AP,2,Dummy
+Image 3,30,M,AP,3,Dummy
+Image 4,40,F,AP,4,Dummy
+Image 5,50,M,AP,5,Dummy
+Image 6,60,F,AP,6,Dummy
+Image 7,70,M,AP,7,Dummy
+Image 8,80,F,AP,8,Dummy
+Image 9,90,M,AP,9,Dummy
+Image 10,100,F,AP,10,Dummy
+Image 11,110,M,AP,11,Dummy
